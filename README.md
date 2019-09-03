@@ -13,20 +13,19 @@ class if you find something that is especially helpful. That said, below I have
 compiled a list of useful textbooks and websites that you may want to consider
 using.
 
-    1. https://www.py4e.com/lessons
-    1. Everything on safaribooksonline.com, but especially...
-        - Python crash course
-        - Learning Python
-        - Introduction to python (Jessica McKellar)
-        - Learn Python 3 the hard way
-        - Automate the boring stuff with python
-        - Introducing python
-        - Python for beginners
-        - Python programming language (David Beazley)
-        - Think python
-        - python in a nutshell
-    1. https://docs.python.org/3/tutorial/ (some difficult terminology)
-
+1. https://www.py4e.com/lessons
+1. Everything on safaribooksonline.com, but especially...
+    * Python crash course
+    * Learning Python
+    * Introduction to python (Jessica McKellar)
+    * Learn Python 3 the hard way
+    * Automate the boring stuff with python
+    * Introducing python
+    * Python for beginners
+    * Python programming language (David Beazley)
+    * Think python
+    * python in a nutshell
+1. https://docs.python.org/3/tutorial/ (some difficult terminology)
 
 ## Some useful special-purpose tools
 
@@ -49,10 +48,10 @@ formatting online at [PEP8 Online](http://pep8online.com/).
 
 ## Online python interpreters and REPLs
 
-    - https://www.python.org/shell/
-    - https://www.pythonanywhere.com
-    - https://colab.research.google.com (scripts OR notebooks)
-    - https://kaggle.com (scripts OR notebooks)
+* https://www.python.org/shell/
+* https://www.pythonanywhere.com
+* https://colab.research.google.com (scripts OR notebooks)
+* https://kaggle.com (scripts OR notebooks)
 
 ## Step by step code walkthrough
 
