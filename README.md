@@ -26,6 +26,7 @@ using.
     * Think python
     * python in a nutshell
 1. https://docs.python.org/3/tutorial/ (some difficult terminology)
+1. https://www.w3schools.com/python/default.asp
 
 ## Some useful special-purpose tools
 
@@ -46,12 +47,12 @@ line, you can check your code formatting using
 [flake8](https://pypi.python.org/pypi/flake8).  You can also check code
 formatting online at [PEP8 Online](http://pep8online.com/).
 
-## Online python interpreters and REPLs
+## Online python interpreters and shells/REPLs
 
-* https://www.python.org/shell/
-* https://www.pythonanywhere.com
-* https://colab.research.google.com (scripts OR notebooks)
-* https://kaggle.com (scripts OR notebooks)
+* https://www.python.org/shell/ (python REPL)
+* https://www.pythonanywhere.com (python script and REPL, bash REPL)
+* https://colab.research.google.com (python notebooks)
+* https://kaggle.com (python scripts OR python notebooks)
 
 ## Step by step code walkthrough
 
