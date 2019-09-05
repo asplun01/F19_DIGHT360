@@ -80,3 +80,28 @@ To search a document, type <kbd>/</kbd>, the text you are searching for,
    * `islower()` / `isupper()` / `istitle()`
    * `lower()` / `upper()` / `title()` / `swapcase()`
    * `zfill()`
+
+### Code formatting
+
+The most widely accepted (and official) standard for python code formatting is
+called [PEP-8](https://www.python.org/dev/peps/pep-0008/) ("PEP" means "Python
+Enhancement Proposal"). The best way to learn how to write good-looking code is
+to use a linter in your text editor, but we will learn how to do that later.
+For now, we will try using a website to make sure our code is easier to read.
+
+Put the following code blocks into the input field at [this
+website](http://pep8online.com/) to see how they can be improved.
+
+```python
+x=4
+y=2
+print(x,y,sep='')
+```
+
+```python
+a = 42# this is a comment about life, the universe and everything
+b = 'spam'   
+#the previous line is just great
+   
+print( a )  
+```
