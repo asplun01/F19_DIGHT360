@@ -101,7 +101,7 @@ print(x,y,sep='')
 ```python
 a = 42# this is a comment about life, the universe and everything
 b = 'spam'   
-#the previous line is just great
+#the previous line is just great, mostly because it has the word 'spam' in it, which is so funny!
    
 print( a )  
 ```
